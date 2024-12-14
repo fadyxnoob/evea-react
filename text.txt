@@ -1,0 +1,9 @@
+ primary color #FFFFFF
+ scecondary color #0A1425
+ info light color #5D87FF
+ info bg color #EEF3FF
+ danger bg color #FEF2F2
+ companies bg color #F9FAFB
+ contact bg color #F9FAFB 
+ footer bg color #17243A
+ foter bottom bg color #17243A
